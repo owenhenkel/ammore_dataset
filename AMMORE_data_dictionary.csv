@@ -1,0 +1,21 @@
+label,file,data_type,variable_type,description
+user_id,student_answers,numeric,ordinal,Uniquely identifies student. Allows for linking between demographic data and answer data
+original_message_id,student_answers,string,descriptor,Uniquely identifies student response
+text,student_answers,string,nominal,Text of student response
+message_inserted_at,student_answers,string,nominal,Date and time response is logged
+question,student_answers,string,nominal,Text of Question
+expected_answer,student_answers,string,nominal,Correct answer for the question
+question_level,student_answers,string,nominal,The level of the question from the GPF (roughly equivalent to grade levels)
+question_micro_lesson,student_answers,string,nominal,"The specific skill from the GPF, first the grade and then the construct (Numeracy, Algebra, Geometry, Statistics) then the specific skill. Final number is the Rori breakdown of lessons for that skill"
+question_skill,student_answers,string,nominal,GPF Description of skill
+question_topic,student_answers,string,nominal,GPF Construct
+question_number,student_answers,string,nominal,Question number within the micro lesson (each have 10)
+answer_type,student_answers,string,nominal,"Answer API response, values can be ""wrong_answer"", ""correct_answer"", or ""other"" which is a response not related to answering the math question e.g. a keyword or clicking a menu button"
+condition_code,student_answers,string,nominal,"Human reater explanation of ""other"" responses from API and potential input errors"
+human_label,student_answers,string,nominal,"Human raters' response upon reviewing ""other"" reponses and input errors"
+user__created_date,student_answers,string,nominal,When user signed up to Rori
+user_id,demographic_data,numeric,ordinal,Uniquely identifies student. Allows for linking between demographic data and answer data
+country,demographic_data,string,nominal,User's country code from their phone number
+age,demographic_data,numeric,ordinal,User's self-reported age
+num_messages,demographic_data,numeric,ordinal,Number of messages user sent
+num_active_days,demographic_data,numeric,ordinal,Number of days user interaccted with Rori
