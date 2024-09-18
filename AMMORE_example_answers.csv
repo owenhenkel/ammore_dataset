@@ -1,0 +1,146 @@
+user_id,original_message_id,text,message_inserted_at,question,expected_answer,question_level,question_micro_lesson,question_skill,question_topic,question_number,answer_type,condition_code,human_label
+5,wamid.HBgMMjMzNTMwNDAzOTI0FQIAEhggMjlBN0E1OTk5NDFDMTgyQ0E2N0FFQzNEMjIxRUVBRUEA,8,3/25/24 11:53,80/100 = ___/10,8,6,G6.N2.1.2.3,Equivalent fractions,Fractions,10,correct_answer,,correct_answer
+5,wamid.HBgMMjMzNTMwNDAzOTI0FQIAEhggMjY3MzVBQjU0MkQ1QzIxNzI4Mjg3NTY4Mjk0NDcwNTUA,C,3/26/24 14:02,"9, ___, 81, 243, 729, 2,187
+
+A. 28
+B. 20
+C. 27
+D. 37",C,6,G6.A1.1.2.1,Patterns,Algebra,4,correct_answer,,correct_answer
+5,wamid.HBgMMjMzNTMwNDAzOTI0FQIAEhggOEU4MEUyRjgwQkNGNTlEMjg1NjkwNDlCNEQwNTI4MDMA,9,3/25/24 11:50,90/100 = ____/10,9,6,G6.N2.1.2.3,Equivalent fractions,Fractions,5,correct_answer,,correct_answer
+5,wamid.HBgMMjMzNTMwNDAzOTI0FQIAEhggQjdCRkRBRUMwMDZFNzJEMUNENUE5NkY5QjZEM0RFMTkA,57,3/20/24 9:19,"Almost done, just *two more* questions left!🎯
+
+Round 57.03 to the nearest tenths place.",57,6,G6.N3.2.1.2,Round decimals,Decimals,9,correct_answer,,correct_answer
+5,wamid.HBgMMjMzNTMwNDAzOTI0FQIAEhggQTMyNzM0QUQwQzFFOEFDNzM0NEFFOUVERUQ3NTM3M0MA,3,3/25/24 11:52,"Only *two questions* away from completing the set!
+
+ 30/100 = ___/ 10",3,6,G6.N2.1.2.3,Equivalent fractions,Fractions,9,correct_answer,,correct_answer
+5,wamid.HBgMMjMzNTMwNDAzOTI0FQIAEhggNDRBOTc3MkZFMEUxOUQxQkZEOTAyNUM0QzY2MjZBMUQA,0.4,3/20/24 9:19,Round 0.44 to the nearest tenths place.,0.4,6,G6.N3.2.1.2,Round decimals,Decimals,10,correct_answer,,correct_answer
+5,wamid.HBgMMjMzNTMwNDAzOTI0FQIAEhggREJERkU3RTYyOUQwMEZFNEZBQTQyNDlGMUYwOUVCM0YA,12.4,3/20/24 9:12,Round 12.39 to the nearest tenths place.,12.4,6,G6.N3.2.1.2,Round decimals,Decimals,3,correct_answer,,correct_answer
+5,wamid.HBgMMjMzNTMwNDAzOTI0FQIAEhggNTUyRkQ3NTFGRDMxREVCMkRBOUQyNjQ4QTkzQThGOTgA,I don't know the answer,3/20/24 9:17,Round 15.90 to the nearest tenths place.,15.9,6,G6.N3.2.1.2,Round decimals,Decimals,6,other,text,other
+5,wamid.HBgMMjMzNTMwNDAzOTI0FQIAEhggMjNFOTAwRDJERjkzRjZFNjdEMTEwMjEyRUI4NjczQjEA,25,3/20/24 9:13,Round 24.98 to the nearest tenths place.,25,6,G6.N3.2.1.2,Round decimals,Decimals,5,correct_answer,,correct_answer
+5,wamid.HBgMMjMzNTMwNDAzOTI0FQIAEhggNzg3OTM2QkRGREMyMzE4ODk2ODhGRjQ4MjA1MDE2RjcA,56.5,3/20/24 9:19,Round 56.52 to the nearest tenths place.,56.5,6,G6.N3.2.1.2,Round decimals,Decimals,8,correct_answer,,correct_answer
+5,wamid.HBgMMjMzNTMwNDAzOTI0FQIAEhggRDNGNkM3QzFFREMzRTE1NjNDN0QzMDg2NDc4Rjk1ODEA,7.7,3/20/24 9:10,Round 7.68 to the nearest tenths place.,7.7,6,G6.N3.2.1.2,Round decimals,Decimals,1,correct_answer,,correct_answer
+5,wamid.HBgMMjMzNTMwNDAzOTI0FQIAEhggQjcyQTdFQUI3QkU2NjBFOUUwRDUzRjY5OEU2QjQxN0EA,82.1,3/20/24 9:12,Round 82.05 to the nearest tenths place.,82.1,6,G6.N3.2.1.2,Round decimals,Decimals,4,correct_answer,,correct_answer
+5,wamid.HBgMMjMzNTMwNDAzOTI0FQIAEhggQjdFNzJGQkI3NjgwRjZBNEZCNTkzNDlFNjNEQTBDODUA,9.1,3/20/24 9:19,Round 9.12 to the nearest tenths place.,9.1,6,G6.N3.2.1.2,Round decimals,Decimals,7,correct_answer,,correct_answer
+6,wamid.HBgNMjM0OTE2MDE5MzM4NRUCABIYIDQxRjhFQTcxOEQwRTZCRkYxNTE0NERCNzREN0Y3NEQ2AA==,B,3/19/24 15:28,"(3s + 5y) + (6s - 2y)
+A. 9s - 7y
+B. 9s + 3y
+C. 9s - 3y
+D. 8s + 3y",B,8,G8.A2.1.2.1,Linear expressions,Algebra,1,correct_answer,,correct_answer
+6,wamid.HBgNMjM0OTE2MDE5MzM4NRUCABIYIEMzREE5QkVGMTYwQThDODkxNjU1MENBOEZBQkNGMTUwAA==,A,3/19/24 15:07,"A car travels 120 miles in H hours. The expression represents the average speed in miles per hour is ___
+Speed = distance/time
+A. 120/H
+B. 120 x H
+C. 120 + H
+D. H/120",A,8,G8.A2.1.1.1,Linear expressions,Algebra,1,correct_answer,,correct_answer
+6,wamid.HBgNMjM0OTE2MDE5MzM4NRUCABIYIDkwMDEyOTYzMjE2RkNEQkNCN0U3QzExMDdDNUMyMDQ5AA==,A,3/19/24 15:14,"I have 20 pens. My brother gave me n more pens and my friend gave me another  m  pens. 
+The expression for this would be _____
+A. 20 + n + m
+B. 20n + m
+C. 20m + n
+D. 20nm",A,8,G8.A2.1.1.1,Linear expressions,Algebra,6,correct_answer,,correct_answer
+6,wamid.HBgNMjM0OTE2MDE5MzM4NRUCABIYIDRFOEY1MzlGRTAwOEU5RjVEQUY0ODJCQ0ZCODUxNUNGAA==,A,3/19/24 15:20,"I have a box of z chocolates. I ate 12 of them and gave y of them to friends. The expression representing the number of chocolates left is____.
+A. z - 12 - y
+B. z + y - 12
+C. 12 - z - y
+D. 12z -y",A,8,G8.A2.1.1.1,Linear expressions,Algebra,10,correct_answer,,correct_answer
+6,wamid.HBgNMjM0OTE2MDE5MzM4NRUCABIYIDE4MzY4NDUyOTMxRTVGRjg3M0VDOUQyOUVDNDYwN0E3AA==,A,3/19/24 15:12,"If you multiply four and n and reduce it by six, the expression for this would be ______.
+A. 4n - 6
+B. 4 (n - 6)
+C. 4(6) - n
+D. 6n - 4",A,8,G8.A2.1.1.1,Linear expressions,Algebra,4,correct_answer,,correct_answer
+6,wamid.HBgNMjM0OTE2MDE5MzM4NRUCABIYIDdDQzc2NzQ0NjcyRjYwNEFBOEMzRkYxODY1RDgyNzY0AA==,D,3/19/24 15:10,"In stable, there are z horses. 10 of them are taken into the yard to exercise. The expression that represents the number of horses left is _____.
+A. 10z
+B. 10-z
+C. 10/z
+D. z-10",D,8,G8.A2.1.1.1,Linear expressions,Algebra,2,correct_answer,,correct_answer
+6,wamid.HBgNMjM0OTE2MDE5MzM4NRUCABIYIDZFQjkzOERERUI5NDA0Qzc3NjU0QjZCNDJDRDQ4ODkwAA==,B,3/19/24 15:08,"In stable, there are z horses. 10 of them are taken into the yard to exercise. The expression that represents the number of horses left is _____.
+A. 10z
+B. 10-z
+C. 10/z
+D. z-10",D,8,G8.A2.1.1.1,Linear expressions,Algebra,2,wrong_answer,,wrong_answer
+6,wamid.HBgNMjM0OTE2MDE5MzM4NRUCABIYIDU0NTg4QzUzNEYyQUMzNjY3MUY5QzUxNTczNDQzRDE1AA==,B,3/19/24 15:11,"John scores 3 points more than James who scores p points. 
+The expression that represents John's score is _____.
+A. 3p
+B. p + 3
+C. p - 3 
+D. 3/p",B,8,G8.A2.1.1.1,Linear expressions,Algebra,3,correct_answer,,correct_answer
+6,wamid.HBgNMjM0OTE2MDE5MzM4NRUCABIYIDE4QjNERjFDQTc0OUQ2NDU5QTY1MjRBNjdBRjUwRjExAA==,A,3/19/24 15:18,"Only *2 questions* left!
+
+There are 50 balloons at a party. 
+*a* balloons are red and *b* balloon are blue. 
+The expression representing the total number of balloons is __.
+A. a + b = 50
+B. a - b = 50
+C. 50ab
+D. 50/a + b",A,8,G8.A2.1.1.1,Linear expressions,Algebra,9,correct_answer,,correct_answer
+6,wamid.HBgNMjM0OTE2MDE5MzM4NRUCABIYIDAwMTg5NDcwNDlFQUQ0RjMzMzc4NjE5NjFDNTc3RkZEAA==,C,3/19/24 15:12,"The difference of thirteen and y, then add to x. The expression for this would be _______
+A. x (13 - y)
+B. 13x - 6
+C.(13 - y) + x
+D. 13y + x",C,8,G8.A2.1.1.1,Linear expressions,Algebra,5,correct_answer,,correct_answer
+6,wamid.HBgNMjM0OTE2MDE5MzM4NRUCABIYIENDRjJGNzk5NUZERDk0Q0M4QTBCMkE4M0FFN0ZDRkY3AA==,D,3/19/24 15:16,"There are 20 red and black marbles in a bag. 
+s marbles are red and t marbles are black. 
+The expression that represents the total number of marbles in the bag is __
+A. 20 = st
+B. 20/s + t
+C. 20 + s + t
+D. 20 = s + t",D,8,G8.A2.1.1.1,Linear expressions,Algebra,7,correct_answer,,correct_answer
+6,wamid.HBgNMjM0OTE2MDE5MzM4NRUCABIYIDYzQ0ZBREY2QTVBNDMxOThBM0M2M0Y0Qzc1RThGMzk0AA==,A,3/19/24 15:15,"There are 20 red and black marbles in a bag. 
+s marbles are red and t marbles are black. 
+The expression that represents the total number of marbles in the bag is __
+A. 20 = st
+B. 20/s + t
+C. 20 + s + t
+D. 20 = s + t",D,8,G8.A2.1.1.1,Linear expressions,Algebra,7,wrong_answer,,wrong_answer
+6,wamid.HBgNMjM0OTE2MDE5MzM4NRUCABIYIDU5NjI5RkYyODU0NUNCRkJGRTQxN0IzMzAxN0JDMjQ3AA==,B,3/19/24 15:17,"There are x ball pens in a pack. 
+I buy 4 pack of ball pens and y pencils. 
+The expression for this would be _______
+A. 4 + x + y
+B. 4x + y
+C. 4 - x - y
+D. 4xy",B,8,G8.A2.1.1.1,Linear expressions,Algebra,8,correct_answer,,correct_answer
+7,wamid.HBgLMjc4MTMwNDY1NDUVAgASGCA2MzA0QTg1MDgxMTI5REJENzdCRjE2N0E0N0JDQ0EwMgA=,13,2/25/24 12:44,"5 + y = 8
+
+y = ____",3,7,G7.A3.3.1.1,Equations,Algebra,1,wrong_answer,,wrong_answer
+7,wamid.HBgLMjc4MTMwNDY1NDUVAgASGCBEMjQyMDQ4Q0VBM0EyN0E1MzE0MTZCMjM1REU1NzBFQQA=,9,2/25/24 12:45,"4p = 36
+
+p = ____",9,7,G7.A3.3.1.1,Equations,Algebra,2,correct_answer,,correct_answer
+7,wamid.HBgLMjc4MTMwNDY1NDUVAgASGCAyN0YxQkU4MzVGODQyMDkxRjVEODI0QjdBODgxQzQ0OQA=,3,2/25/24 12:44,"5 + y = 8
+
+y = ____",3,7,G7.A3.3.1.1,Equations,Algebra,1,correct_answer,,correct_answer
+8,wamid.HBgMMjMzNTQyNzI0ODEwFQIAEhgUM0E4NzE1RjE0REZDOEI1ODYyNDcA,4,3/26/24 21:39,2^2 + 2^3 = __,12,9,G9.N5.2.1.1,Add and subtract,Integers and Exponents,1,wrong_answer,,wrong_answer
+8,wamid.HBgMMjMzNTQyNzI0ODEwFQIAEhgUM0E4ODJDMTlENkNEMzY3NUI0MzkA,10,3/17/24 21:04,2^2 + 2^3 = __,12,9,G9.N5.2.1.1,Add and subtract,Integers and Exponents,1,wrong_answer,,wrong_answer
+47,wamid.HBgMMjMzNTM2NjE2OTAzFQIAEhggMDY4NUZBRDEyMDRBMDNCNUYwQjc2MzEzMTVDQjEyQjYA,audio,2/21/24 12:07,"Change the number to scientific form. 3540 can be written as
+A) 35.4 × 100
+B) 354 x10
+C) 3.54 × 10³
+D) 3540 × 10",C,9,G9.N5.1.2.1,Scientific notations,Integers and Exponents,7,other,audio,other
+9,wamid.HBgNMjM0NzAzMTQ5NTMxNxUCABIYIDU4RTQyMUE4MkZGRkFDRDQwN0JCN0VCRkQwOUMwQUMxAA==,27,4/6/24 20:44,Round 27.520 to the nearest tenths place.,27.5,7,G7.N3.2.1.1,Round decimals,Decimals,6,wrong_answer,,wrong_answer
+9,wamid.HBgNMjM0NzAzMTQ5NTMxNxUCABIYIEM1MEQyRTkyOUNDQzlDODdBMzBGM0YxQzU3REIxQTNEAA==,28,4/6/24 21:30,Round 27.520 to the nearest tenths place.,27.5,7,G7.N3.2.1.1,Round decimals,Decimals,6,wrong_answer,,wrong_answer
+9,wamid.HBgNMjM0NzAzMTQ5NTMxNxUCABIYIDgzQTcxNzczMkQ1NDc1RjY5NkZFNjRGMjcwREU5NzREAA==,13,4/6/24 12:21,Round 13.428 to the nearest whole number.,13,7,G7.N3.2.1.1,Round decimals,Decimals,1,correct_answer,,correct_answer
+9,wamid.HBgNMjM0NzAzMTQ5NTMxNxUCABIYIEU4ODQxM0UwMDQyNkUzNEJGQkEzM0Y2OTQ4MDI4QTFFAA==,28,4/6/24 12:22,Round 27.513 to the nearest whole number.,28,7,G7.N3.2.1.1,Round decimals,Decimals,2,correct_answer,,correct_answer
+9,wamid.HBgNMjM0NzAzMTQ5NTMxNxUCABIYIENDMDBBQzRCRDI3REE1NTQ1MUM2MUY4RURGMjNFQUUzAA==,38,4/6/24 12:24,Round 37.901 to the nearest whole number.,38,7,G7.N3.2.1.1,Round decimals,Decimals,4,correct_answer,,correct_answer
+9,wamid.HBgNMjM0NzAzMTQ5NTMxNxUCABIYIDQxM0Q0NTU1MTM2NTA3OUJFMDg0MTYzQTdENUMyMUQ4AA==,50,4/6/24 12:23,Round 50.086 to the nearest whole number.,50,7,G7.N3.2.1.1,Round decimals,Decimals,3,correct_answer,,correct_answer
+9,wamid.HBgNMjM0NzAzMTQ5NTMxNxUCABIYIEFCMEYzRTM4RjEwNEQxQzFFRjQ0NjY2M0Y3NjA4REQ0AA==,86,4/6/24 12:25,Round 85.552 to the nearest whole number.,86,7,G7.N3.2.1.1,Round decimals,Decimals,5,correct_answer,,correct_answer
+10,wamid.HBgNMjM0OTEzNDgyNjgxMhUCABIYIERBNzY3M0ExMjhGMjBFRjdDM0ZEQkJGOUI2OTA2Q0NGAA==,2.375,4/7/24 9:15,"16f + 3 = 35.
+f = ______",2,8,G8.A3.3.1.1,Linear equations,Algebra,1,wrong_answer,,wrong_answer
+10,wamid.HBgNMjM0OTEzNDgyNjgxMhUCABIYIDJGNTMwM0M4MDg5QzQ3NkU1NDBENkEyNjBFMkI4MjAyAA==,2,4/7/24 9:23,y/4+14=16,8,8,G8.A3.3.1.1,Linear equations,Algebra,5,wrong_answer,,wrong_answer
+10,wamid.HBgNMjM0OTEzNDgyNjgxMhUCABIYIDhGNjRFOUZFMEE3NkFGQjI2MDZEMTQxNzYzNERBOTE2AA==,2,4/7/24 9:16,"16f + 3 = 35.
+f = ______",2,8,G8.A3.3.1.1,Linear equations,Algebra,1,correct_answer,,correct_answer
+10,wamid.HBgNMjM0OTEzNDgyNjgxMhUCABIYIDhENTdGQzhFOUE0MUVCNzkxRjcyNDE2Q0M1NkU4Q0QxAA==,2,4/7/24 9:21,"18g - 4 = 32.
+g = ___",2,8,G8.A3.3.1.1,Linear equations,Algebra,3,correct_answer,,correct_answer
+10,wamid.HBgNMjM0OTEzNDgyNjgxMhUCABIYIDMwMzY2N0FCQTY0N0I5QjJDN0E3NzBEQjU2MzNGNjdBAA==,3,4/7/24 9:28,"20h + 2 = 62.
+h = ____",3,8,G8.A3.3.1.1,Linear equations,Algebra,7,correct_answer,,correct_answer
+10,wamid.HBgNMjM0OTEzNDgyNjgxMhUCABIYIEU2NzlFRURBQzM5REE1QkRFMjY0NTlCRTVEODc3NzBCAA==,3,4/7/24 9:34,"25j + 1 = 76
+j = ___",3,8,G8.A3.3.1.1,Linear equations,Algebra,10,correct_answer,,correct_answer
+10,wamid.HBgNMjM0OTEzNDgyNjgxMhUCABIYIEFDNTUwNjMyNDBBM0YzQjhCMDE1QUYyNEU4RUQwRjYwAA==,2,4/7/24 9:22,"26m - 5 = 47.
+ m = ___",2,8,G8.A3.3.1.1,Linear equations,Algebra,4,correct_answer,,correct_answer
+10,wamid.HBgNMjM0OTEzNDgyNjgxMhUCABIYIEMwRjI2OTVCQkNGQzZDQzEyMTJBODUzNDUzMTY1RDYyAA==,2,4/7/24 9:27,"28n + 7 = 63.
+n = ____",2,8,G8.A3.3.1.1,Linear equations,Algebra,6,correct_answer,,correct_answer
+10,wamid.HBgNMjM0OTEzNDgyNjgxMhUCABIYIEUwNDREREE1ODBFOEMyNTRCMTk0QTE1M0Q4MkEwQzJFAA==,5,4/7/24 9:18,"3p + 7 = 22.
+p = ___",5,8,G8.A3.3.1.1,Linear equations,Algebra,2,correct_answer,,correct_answer
+10,wamid.HBgNMjM0OTEzNDgyNjgxMhUCABIYIDNDNTlBRUVENUY5Q0RGOTRFMjJGMEQ0REVFQkUzRTEyAA==,B,4/7/24 9:38,"A lines passes through points (6, 4) and (-2, -4) whose slope is ___.
+A. 1
+B. -2
+C. -1
+D. 2",A,8,G8.A3.3.2.1,Linear equations,Algebra,1,wrong_answer,,wrong_answer
